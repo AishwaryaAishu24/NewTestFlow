@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<testsuites>
+	<testsuite id="New Script 1" name="New Script 1" result="fail">
+		<testcase name="New Script 1" result="fail">
+			<verificationstep result="fail">
+				<description></description>
+				<expected>+ Add Step,Requirement ID,WE invert Result?,| Perform Read Only?</expected>
+				<actual>,,,</actual>
+			</verificationstep>
+		</testcase>
+	</testsuite>
+</testsuites>

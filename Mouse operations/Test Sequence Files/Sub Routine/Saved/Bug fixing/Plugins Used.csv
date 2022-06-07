@@ -1,0 +1,20 @@
+<Array>
+<Name>Output Array</Name>
+<Dimsize>4</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Group Steps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>If</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Search and Navigate</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Text Verification</Val>
+</String>
+</Array>

@@ -1,0 +1,565 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0.1</Version>
+<Object>
+<Name>Plugin Manager in</Name>
+<NumLevels>1</NumLevels>
+<Class>Plugin Manager.lvclass</Class>
+<Version>1.0.0.12</Version>
+<Cluster>
+<Name>Plugin Manager.lvclass</Name>
+<NumElts>13</NumElts>
+<Array>
+<Name>Default Plugin Path[]</Name>
+<Dimsize>8</Dimsize>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\SIVA-M Instrument Plugin\SIVA-M Instrument Definition\SIVA-M Instrument Definition.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Plugin\Listing Tree Plugin\Listing Tree Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Instrument Plugin\Tree Instrument Plugin\Tree Instrument Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Test Plugin\Tree Test Plugin\Tree Test Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Flow Control Plugin\Tree Flow Control Plugin\Tree Flow Control Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Update ROI Plugin\Update ROI Plugin\Update ROI Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Day or Night Config Updater\Day or Night Config Updater\Day or Night Config Updater.lvclass</Val>
+</Path>
+</Array>
+<Array>
+<Name>Default Plugin SerializeData[]</Name>
+<Dimsize>8</Dimsize>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;SIVA-M Instrument Definition.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x79F00035&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;SIVA-M Instrument Definition&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Instrument Definition&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x82F00180&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Listing Tree Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A000036&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Listing Tree Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Main Tree Frame&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x83D0018E&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Instrument Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A100037&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Instrument Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Instrument Plugins Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x83B0018C&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Test Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A200038&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Test Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Test Plugins Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x83F00190&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Flow Control Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A300039&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Flow Control Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Flow Control Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x84400195&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Sub-Routine Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A40003A&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Sub-Routine Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;sub-Routines Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x84700198&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Update ROI Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A50003B&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;ROI Update Utility&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;ROI Update&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x84A0019B&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Day or Night Config Updater.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x7A60003C&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Config Update Utility&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Config Update&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x84C0019D&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+</Array>
+<Array>
+<Name>Default Plugin Type[]</Name>
+<Dimsize>8</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Instrument Definition</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Main Tree Frame</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Instrument Plugins Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Test Plugins Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Flow Control Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>sub-Routines Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>ROI Update</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Config Update</Val>
+</String>
+</Array>
+<Array>
+<Name>User Plugin Path[]</Name>
+<Dimsize>0</Dimsize>
+<Path>
+<Name>Path</Name>
+<Val></Val>
+</Path>
+</Array>
+<Array>
+<Name>User Plugin SerializeData[]</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+<Array>
+<Name>User Plugin Type[]</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+<Array>
+<Name>Default Plugin[]</Name>
+<Dimsize>0</Dimsize>
+<Refnum>
+<Name>SIVA Plugin [ref]</Name>
+<RefKind>Data Value Reference</RefKind>
+<Val></Val>
+</Refnum>
+</Array>
+<Array>
+<Name>User Plugin[]</Name>
+<Dimsize>0</Dimsize>
+<Refnum>
+<Name>SIVA Plugin [ref]</Name>
+<RefKind>Data Value Reference</RefKind>
+<Val></Val>
+</Refnum>
+</Array>
+<Path>
+<Name>Project Folder</Name>
+<Val>C:\Users\Public\Documents\MAVIS\Mouse operations</Val>
+</Path>
+<String>
+<Name>Project File Name</Name>
+<Val>Mouse operations.sivaproj</Val>
+</String>
+<Refnum>
+<Name>Active Plugin [ref]</Name>
+<RefKind>Data Value Reference</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
+<Boolean>
+<Name>Is Dirty?</Name>
+<Val>0</Val>
+</Boolean>
+<Cluster>
+<Name>Project Version</Name>
+<NumElts>3</NumElts>
+<U32>
+<Name>Major</Name>
+<Val>2</Val>
+</U32>
+<U32>
+<Name>Minor</Name>
+<Val>2</Val>
+</U32>
+<U32>
+<Name>Build</Name>
+<Val>7</Val>
+</U32>
+</Cluster>
+</Cluster>
+</Object>
+</LVData>

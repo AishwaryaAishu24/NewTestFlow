@@ -1,0 +1,54 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0.1</Version>
+<Object>
+<Name>Error Handler Module in</Name>
+<NumLevels>1</NumLevels>
+<Class>Common.lvlib:Status Message Module.lvclass</Class>
+<Version>1.0.0.0</Version>
+<Cluster>
+<Name>Status Message Module.lvclass</Name>
+<NumElts>7</NumElts>
+<Array>
+<Name>Disabled Module Array</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+<Boolean>
+<Name>Info</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Warning</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Error</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>Disabled Write Registers</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+<Array>
+<Name>Disabled Read Registers</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+<Path>
+<Name>Filter Config Path</Name>
+<Val>C:\Users\Public\Documents\MAVIS\Mouse operations\Configuration Files\General\Status Log\default filter setting.xml</Val>
+</Path>
+</Cluster>
+</Object>
+</LVData>
