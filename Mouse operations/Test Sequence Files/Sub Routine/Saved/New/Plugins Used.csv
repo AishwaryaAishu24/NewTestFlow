@@ -1,0 +1,16 @@
+<Array>
+<Name>Output Array</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Text Verification</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Wait</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>DUT Monitor</Val>
+</String>
+</Array>

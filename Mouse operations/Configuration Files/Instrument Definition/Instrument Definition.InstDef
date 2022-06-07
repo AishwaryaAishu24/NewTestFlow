@@ -1,0 +1,15 @@
+[InstrumentList]
+InstrumentList.Info.<size(s)> = "1"
+InstrumentList.Info 0.Type = "DUT Monitor"
+InstrumentList.Info 0.Model = "DUT Monitor"
+InstrumentList.Info 0.Name = "DUT"
+InstrumentList.Info 0.Config Panel VI Path = "/C/Soliton Workspace/Sprint-14 New/MAVIS Test Plugins/Child Class/Instrument Plugins/Child Class/DUT Monitor/Configuration Panel.vi"
+InstrumentList.Info 0.Enabled? = "TRUE"
+InstrumentList.Info 0.Initialisation Order = "-1"
+InstrumentList.Info 0.Timeout(ms) = "\00\00\00\00\00\00\03è"
+InstrumentList.Force Initialisation Order? = "FALSE"
+InstrumentList.Close in Reverse? = "FALSE"
+
+[DUT]
+Instrument References.Instrument Reference = "\00\00\00\00"
+Control Values.Channel = "0"

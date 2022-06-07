@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<testsuites>
+	<testsuite id="New Script 1" name="New Script 1" result="fail">
+		<testcase name="New Script 1" result="fail">
+			<verificationstep result="fail">
+				<description></description>
+				<expected>+ Add Step,Requirement ID,WE invert Result?,| Perform Read Only?,Read Value,Requirement ID,oa Report Config,Step Description
+Ss,Read Value,Eb Use Variable?—,;a Enable Timer? -,Multiple RO!,Invert Result?,I Perform Read Only?,|,&amp;,I Perform Read Only?,I Invert Result?,* Update Step,New Step</expected>
+				<actual>_,=,,Se,,,,,,Req ID,em
+&gt;,,,] Le,Reqd,eos
+Pree
++ Add Step “,CC,Z
+.,,</actual>
+			</verificationstep>
+		</testcase>
+	</testsuite>
+</testsuites>

@@ -1,0 +1,28 @@
+<Array>
+<Name>Output Array</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Search and Navigate</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Wait</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Group Steps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>If</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Text Verification</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Sub Routine</Val>
+</String>
+</Array>
