@@ -1,6 +1,6 @@
 <Array>
 <Name>Output Array</Name>
-<Dimsize>2</Dimsize>
+<Dimsize>3</Dimsize>
 <String>
 <Name>String</Name>
 <Val>For</Val>
@@ -8,5 +8,9 @@
 <String>
 <Name>String</Name>
 <Val>Label</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Wait</Val>
 </String>
 </Array>
