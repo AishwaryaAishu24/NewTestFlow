@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>18.0.1</Version>
+<Version>18.0.1f4</Version>
 <Object>
 <Name>Plugin Manager in</Name>
 <NumLevels>1</NumLevels>
@@ -14,35 +14,35 @@
 <Dimsize>8</Dimsize>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\SIVA-M Instrument Plugin\SIVA-M Instrument Definition\SIVA-M Instrument Definition.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\SIVA-M Instrument Plugin\SIVA-M Instrument Definition\SIVA-M Instrument Definition.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Plugin\Listing Tree Plugin\Listing Tree Plugin.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Tree Plugin\Listing Tree Plugin\Listing Tree Plugin.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Instrument Plugin\Tree Instrument Plugin\Tree Instrument Plugin.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Tree Instrument Plugin\Tree Instrument Plugin\Tree Instrument Plugin.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Test Plugin\Tree Test Plugin\Tree Test Plugin.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Tree Test Plugin\Tree Test Plugin\Tree Test Plugin.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Flow Control Plugin\Tree Flow Control Plugin\Tree Flow Control Plugin.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Tree Flow Control Plugin\Tree Flow Control Plugin\Tree Flow Control Plugin.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Update ROI Plugin\Update ROI Plugin\Update ROI Plugin.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Update ROI Plugin\Update ROI Plugin\Update ROI Plugin.lvclass</Val>
 </Path>
 <Path>
 <Name>Path</Name>
-<Val>C:\Soliton Workspace\Sprint-14 New\Framework Components\Plugins\Plugin Child\Day or Night Config Updater\Day or Night Config Updater\Day or Night Config Updater.lvclass</Val>
+<Val>C:\Program Files (x86)\MAVIS\MAVIS\Source Code\Framework Components\Plugins\Plugin Child\Day or Night Config Updater\Day or Night Config Updater\Day or Night Config Updater.lvclass</Val>
 </Path>
 </Array>
 <Array>
@@ -62,7 +62,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x79F00035&lt;/Val&gt;
+&lt;Val&gt;0xFC400042&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -80,13 +80,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x82F00180&lt;/Val&gt;
+&lt;Val&gt;0x32D00129&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -112,7 +112,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A000036&lt;/Val&gt;
+&lt;Val&gt;0xFC50003B&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -130,13 +130,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x83D0018E&lt;/Val&gt;
+&lt;Val&gt;0x33500137&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -162,7 +162,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A100037&lt;/Val&gt;
+&lt;Val&gt;0xFC600040&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -180,13 +180,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x83B0018C&lt;/Val&gt;
+&lt;Val&gt;0x33700155&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -212,7 +212,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A200038&lt;/Val&gt;
+&lt;Val&gt;0xFC70003A&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -230,13 +230,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x83F00190&lt;/Val&gt;
+&lt;Val&gt;0x33F0012B&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -262,7 +262,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A300039&lt;/Val&gt;
+&lt;Val&gt;0xFC800038&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -280,13 +280,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x84400195&lt;/Val&gt;
+&lt;Val&gt;0x33900156&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -312,7 +312,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A40003A&lt;/Val&gt;
+&lt;Val&gt;0xFC900039&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -330,13 +330,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x84700198&lt;/Val&gt;
+&lt;Val&gt;0x33C0014F&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -362,7 +362,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A50003B&lt;/Val&gt;
+&lt;Val&gt;0xFCA00036&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -380,13 +380,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x84A0019B&lt;/Val&gt;
+&lt;Val&gt;0x3430012E&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -412,7 +412,7 @@
 &lt;Refnum&gt;
 &lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
 &lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
-&lt;Val&gt;0x7A60003C&lt;/Val&gt;
+&lt;Val&gt;0xFCB00044&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;EW&gt;
 &lt;Name&gt;Software Platform&lt;/Name&gt;
@@ -430,13 +430,13 @@
 &lt;/String&gt;
 &lt;Path&gt;
 &lt;Name&gt;Project Folder Path&lt;/Name&gt;
-&lt;Val&gt;C:\Users\Public\Documents\MAVIS\Mouse operations&lt;/Val&gt;
+&lt;Val&gt;D:\Git Repo\NewTestFlow\Mouse operations&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
 &lt;RefKind&gt;LV Object&lt;/RefKind&gt;
 &lt;RefType&gt;VI&lt;/RefType&gt;
-&lt;Val&gt;0x84C0019D&lt;/Val&gt;
+&lt;Val&gt;0x3460015A&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Boolean&gt;
 &lt;Name&gt;Is Dirty?&lt;/Name&gt;
@@ -529,7 +529,7 @@
 </Array>
 <Path>
 <Name>Project Folder</Name>
-<Val>C:\Users\Public\Documents\MAVIS\Mouse operations</Val>
+<Val>D:\Git Repo\NewTestFlow\Mouse operations</Val>
 </Path>
 <String>
 <Name>Project File Name</Name>
